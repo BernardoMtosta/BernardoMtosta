@@ -1,12 +1,13 @@
+# 💻 Bernardo Marques
 **`Desenvolvedor Backend`**
 
-Me chamo Bernardo Marques e sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend.
+Me chamo Bernardo Marques e sou estudante de Ciências da Computação, com foco em desenvolvimento backend.
 
-Atualmente, estou direcionando meus estudos para o ecossistema Java, utilizando **Spring Boot** para construção de APIs REST, além de trabalhar com **MySQL** e **Docker**.
+Atualmente, estou direcionando meus estudos para o ecossistema Java, utilizando **Spring Boot** para construção de APIs, além de trabalhar com **MySQL** e **Docker**.
 
-Tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, o que me permite entender bem a integração entre frontend e backend. Meu principal objetivo é evoluir como desenvolvedor backend, aplicando boas práticas de código, organização e construção de sistemas escaláveis.
+Tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, o que me permite compreender bem a integração entre frontend e backend. Busco evoluir continuamente como desenvolvedor, aplicando boas práticas de código, organização e construção de sistemas eficientes e escaláveis.
 
-Venho desenvolvendo projetos próprios para portfólio, como uma calculadora em Java que está sendo evoluída para uma API REST completa, com histórico de operações e melhorias estruturais.
+Estou em constante aprendizado, aprofundando meus conhecimentos em desenvolvimento, banco de dados e arquitetura de software.
 
 Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para aplicar meus conhecimentos na prática e continuar evoluindo na área.
 
@@ -86,9 +87,9 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para
 
 ### 📚 Atualmente estudando
 
-- APIs REST com Spring Boot  
-- Integração frontend e backend  
-- Boas práticas (clean code e organização)  
+- CI/CD (Integração e Entrega Contínua) 
+- Fundamentos de DevOps  
+- Boas práticas de código e organização  
 - Banco de dados e modelagem  
 
 ---
@@ -101,14 +102,14 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=BernardoMtosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMtosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
