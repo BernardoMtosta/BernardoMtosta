@@ -96,20 +96,14 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BernardoMtosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BernardoMtosta&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoMtosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="200" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BernardoMtosta&theme=tokyonight&layout=compact&langs_count=9" 
   />
-
 </p>
